@@ -1,0 +1,13 @@
+ 621  cd github-for-devops/
+  622  ls
+  623  git status
+  624  git add .
+  625  git status
+  626  git commit -m "new testing file is added"
+  627  git config --global user.email "harindertalan@gmail.com"
+  628  git commit -m "new testing file is added"
+  629  git status
+  630  ls
+  631  git log
+  ls
+history
