@@ -11,3 +11,11 @@
   631  git log
   ls
 history
+ 642  git status
+  643  git log
+  644  git remote add origin https://github.com/Harinder-Talan147/github-for-devops.git
+  645  git remote -v
+  646  git remote set-url origin  https://github.com/Harinder-Talan147/github-for-devops.git
+  647  git remote -v
+  648  git push origin master
+  649  history
